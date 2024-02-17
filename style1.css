@@ -1,0 +1,43 @@
+.version {
+    width: 35px;
+    height: 35px;
+}
+footer {     
+    background: #FAF0E6;
+    font-family: tempus sans itc;
+    border: 5px inset rgb(0, 255, 213);
+        }   
+body {
+    border: 5px inset rgb(0, 255, 213);
+}   
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+h3 { 
+    text-align: center;
+}
+details {
+    background-color: red;
+    text-align: center ;
+    }
+a {
+    text-decoration: none;
+    }
+header {
+    background: #FFF0F5;
+    font-family: comic sans ms;
+    text-decoration: none;
+        }
+body 
+        {
+    font-family: Helvetica;
+    background: #FFFAFA;
+        }
+.table  {
+    height: 100px;
+    width: 200px;
+    text-align: center;
+        }
